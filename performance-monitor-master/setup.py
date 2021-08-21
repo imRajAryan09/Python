@@ -17,5 +17,5 @@ setup(
     long_description_content_type="text/markdown",
     author="Raj Aryan",
     author_email="mrajaryan349@gmail.com",
-    # url="https://github.com/niksingh710/performance-monitor"
+    url="https://github.com/imRajAryan09/Python/tree/main/performance-monitor-master"
 )
