@@ -24,7 +24,7 @@ class Stack:
 		newNode = StackNode(data)
 		newNode.next = self.root
 		self.root = newNode
-		print "% d pushed to stack" % (data)
+		print("% d pushed to stack" % (data))
         
     # Function to remove an item from stack. It decreases size by 1
 	def pop(self):
