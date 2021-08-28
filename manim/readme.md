@@ -28,3 +28,8 @@ Since you can’t communicate built-in Python data structures to FFmpeg, Manim i
 - manim
 - LaTeX
 - ffmpeg
+
+After meeting all the requirements run this command in the terminal to export your code to animation : 
+</br>
+
+    manim -pqh file_name.py ClassName
