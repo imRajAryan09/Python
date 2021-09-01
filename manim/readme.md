@@ -37,8 +37,15 @@ After meeting all the requirements run this command in the terminal to export yo
 </br>
 </br>
 
-This simple gi has been coded using manim
+This gif has been coded using manim and it requires only 5 lines of code : 
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
+  <img src="https://github.com/imRajAryan09/Python/blob/main/manim/output.gif">
 </p>
+
+
+    class Example2(Scene):
+        def construct(self):
+            text = Text("Thank you for reading!!!", color=RED).scale(1.25)
+            self.play(Write(text), run_time=3)
+            self.wait(10)
