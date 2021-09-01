@@ -33,3 +33,12 @@ After meeting all the requirements run this command in the terminal to export yo
 </br>
 
     manim -pqh file_name.py ClassName
+    
+</br>
+</br>
+
+This simple gi has been coded using manim
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
+</p>
